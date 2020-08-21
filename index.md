@@ -1,4 +1,4 @@
-![Oleg Marenkov](avatar.png)
+![Oleg Marenkov](avatar.png =250x)
 
 # **Oleg Marenkov**
 
