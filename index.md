@@ -1,10 +1,9 @@
-![Aashish Chaubey](images/pic.jpg)
+![Oleg Marenkov](avatar.png)
 
-# **Aashish Chaubey**
+# **Oleg Marenkov**
 
-       E-mail  : chaubey.aashish@gmail.com
-       Ph. No. : +91 78921 46813
-       Loc.    : Bangalore, India
+       E-mail  : oleg@marenkov.me
+       Loc.    : Novosibirsk, Russia
 
 ## __Academia__
 
