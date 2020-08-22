@@ -16,6 +16,14 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    
+    <script>
+        function diffImage(img) 
+        {
+           if(img.src.match(/avatar/)) img.src = "avatar.png";
+           else img.src = "qr.png";
+        }
+    </script>   
 
 </head>
 
@@ -24,7 +32,7 @@
     <div class="container">
 
         <div id="avatar">
-            <img class="img-fluid rounded" width="150" src="avatar.png">
+            <img class="img-fluid rounded" width="150" src="avatar.png" onclick=diffImage(this) />
         </div>
 
         <div id="header">
