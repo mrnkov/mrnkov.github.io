@@ -25,6 +25,20 @@
 
         <div id="avatar">
             <img class="img-fluid rounded" src="avatar.png" width="150">
+                <script>
+                function changeImage()
+                {
+                element=document.getElementById('avatar')
+                if (element.src.match("out"))
+                  {
+                  element.src="avatar.png";
+                  }
+                else
+                  {
+                  element.src="qr.png";
+                  }
+                }
+                </script>
         </div>
 
         <div id="header">
