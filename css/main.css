@@ -14,6 +14,15 @@ a {
         }
     }
 
+.avatar:hover .overlay {
+  position:absolute;
+  width: 48px;
+  height: 48px;
+  z-index: 100;
+  background: transparent url('qr.png') no-repeat;
+  cursor: pointer;
+}
+
 #avatar {
     margin-bottom: 25px;
 }
